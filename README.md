@@ -1,2 +1,2 @@
 # LSTM-Oil
-Long Short Term RNN used to predict Brent Oil Prices
+Long Short Term Memory RNN used to predict Brent Oil Prices
